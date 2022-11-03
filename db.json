@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "firstName": "111",
+      "lastName": "iii",
+      "contactNo": "754203691",
+      "email": "doe8@gmail.com",
+      "gender": "female",
+      "dob": "2022-07-17",
+      "address": "sdfsfsaf sdf 55555",
+      "id": 1662548619507
+    },
+    {
+      "firstName": "222",
+      "lastName": "iii",
+      "contactNo": "7405577283",
+      "email": "ashish@bigscal.com",
+      "gender": "male",
+      "dob": "2022-09-13",
+      "address": "bharuch",
+      "id": 1663066485896
+    },
+    {
+      "firstName": "roy",
+      "lastName": "iii",
+      "contactNo": "7405577283",
+      "email": "mketanv@gmail.com",
+      "gender": "male",
+      "dob": "2022-10-01",
+      "address": "surat",
+      "id": 1667218876915
+    },
+    {
+      "firstName": "444",
+      "lastName": "iii",
+      "contactNo": "7405577283",
+      "email": "mketanv@gmail.com",
+      "gender": "male",
+      "dob": "2022-10-31",
+      "address": "surat",
+      "id": 1667304437526
+    },
+    {
+      "firstName": "555",
+      "lastName": "iii",
+      "contactNo": "7405577283",
+      "email": "mketanv@gmail.com",
+      "gender": "male",
+      "dob": "2022-10-31",
+      "address": "surat",
+      "id": 1667304450644
+    },
+    {
+      "firstName": "666",
+      "lastName": "iii",
+      "contactNo": "9985224017",
+      "email": "a@a.com",
+      "gender": "male",
+      "dob": "2022-10-31",
+      "address": "surat",
+      "id": 1667307289293
+    },
+    {
+      "firstName": "777",
+      "lastName": "iii",
+      "contactNo": "9985224017",
+      "email": "a@a.com",
+      "gender": "male",
+      "dob": "2022-10-31",
+      "address": "surat",
+      "id": 1667307740605
+    },
+    {
+      "firstName": "888",
+      "lastName": "iii",
+      "contactNo": "7405577283",
+      "email": "a@a.com",
+      "gender": "male",
+      "dob": "2022-11-01",
+      "address": "surat",
+      "id": 1667381364942
+    },
+    {
+      "firstName": "999",
+      "lastName": "iii",
+      "contactNo": "7405577283",
+      "email": "a@a.com",
+      "gender": "male",
+      "dob": "2022-11-01",
+      "address": "surat",
+      "id": 1667381686926
+    }
+  ]
+}
